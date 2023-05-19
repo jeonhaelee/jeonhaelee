@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi 👋
+
+![COBBY_BADGE](https://cobby-play.com/api/user/badge/jeonhaelee)
 
 <!--
 **jeonhaelee/jeonhaelee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
